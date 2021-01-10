@@ -13,6 +13,7 @@ Requires node v12.x and npm
 - Accepts query parameter "zone". See below for an accepted list of zones.
 
 ### Zones
+```
 'Africa/Abidjan'
 'Africa/Accra'
 'Africa/Addis_Ababa'
@@ -606,3 +607,4 @@ Requires node v12.x and npm
 'W-SU'
 'WET'
 'Zulu'
+```
